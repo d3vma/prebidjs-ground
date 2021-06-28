@@ -16,4 +16,5 @@ rivraddon = {
   }
 }
 
+window.rivraddon = rivraddon;
 module.exports = rivraddon
